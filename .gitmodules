@@ -1,0 +1,15 @@
+[submodule "Balls"]
+	path = Balls
+	url = https://github.com/DDJV-INF740/Balls-src.git
+[submodule "DirectX"]
+	path = DirectX
+	url = https://github.com/DDJV-INF740/DirectX-bin
+[submodule "GameEngine"]
+	path = GameEngine
+	url = https://github.com/DDJV-INF740/GameEngine-src
+[submodule "PhysX"]
+	path = PhysX
+	url = https://github.com/DDJV-INF740/PhysX-bin
+[submodule "config/msvc"]
+	path = config/msvc
+	url = https://github.com/DDJV-INF740/config-msvc
