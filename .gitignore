@@ -30,3 +30,6 @@
 **/ipch/
 *.sdf
 *.opensdf
+**/.vs/*
+*.VC.db
+**/Release/*
